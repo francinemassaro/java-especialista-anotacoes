@@ -1,4 +1,4 @@
-package conteudo7.desafio75;
+package exercicios.conteudo7.desafio75;
 
 public class Principal {
     public static void main(String[] args) {

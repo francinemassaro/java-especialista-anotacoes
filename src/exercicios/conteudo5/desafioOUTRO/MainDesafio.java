@@ -1,4 +1,4 @@
-package conteudo5.desafioOUTRO;
+package exercicios.conteudo5.desafioOUTRO;
 
 public class MainDesafio {
     public static void main(String[] args) {

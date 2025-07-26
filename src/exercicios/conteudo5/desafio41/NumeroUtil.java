@@ -1,4 +1,4 @@
-package conteudo5.desafio41;
+package exercicios.conteudo5.desafio41;
 
 public class NumeroUtil {
 

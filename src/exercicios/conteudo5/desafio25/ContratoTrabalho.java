@@ -1,4 +1,4 @@
-package conteudo5.desafio25;
+package exercicios.conteudo5.desafio25;
 
 public class ContratoTrabalho {
     Funcionario funcionario;

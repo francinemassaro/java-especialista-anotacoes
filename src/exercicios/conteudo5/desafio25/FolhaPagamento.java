@@ -1,4 +1,4 @@
-package conteudo5.desafio25;
+package exercicios.conteudo5.desafio25;
 
 public class FolhaPagamento {
  /*O método calcularSalario deve receber os seguintes parâmetros para calcular o valor total do salário a pagar:

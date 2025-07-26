@@ -1,4 +1,4 @@
-package conteudo5.desafio35;
+package exercicios.conteudo5.desafio35;
 
 public class Quadrado {
     double lado;

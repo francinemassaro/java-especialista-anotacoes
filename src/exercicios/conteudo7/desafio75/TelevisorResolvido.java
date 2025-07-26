@@ -1,4 +1,4 @@
-package conteudo7.desafio75;
+package exercicios.conteudo7.desafio75;
 
 public class TelevisorResolvido {
     Integer canal = 130;
