@@ -18,7 +18,7 @@ Este repositório contém anotações e desafios práticos desenvolvidos durante
 - Clean Code
 - Wrappers e tipos primitivos
 - Arrays
-- Gerenciamento de Memória Java (Em progresso)
+- Gerenciamento de Memória Java
 
 ## 💡 Observações
 
