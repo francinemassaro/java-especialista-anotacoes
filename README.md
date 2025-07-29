@@ -19,6 +19,7 @@ Este repositório contém anotações e desafios práticos desenvolvidos durante
 - Wrappers e tipos primitivos
 - Arrays
 - Gerenciamento de Memória Java
+- Construtores, pacotes e visibilidade
 
 ## 💡 Observações
 
