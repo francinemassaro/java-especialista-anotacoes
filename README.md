@@ -20,6 +20,7 @@ Este repositório contém anotações e desafios práticos desenvolvidos durante
 - Arrays
 - Gerenciamento de Memória Java
 - Construtores, pacotes e visibilidade
+- Encapsulamento, javaBeans e records
 
 ## 💡 Observações
 
